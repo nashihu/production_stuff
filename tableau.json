@@ -1,0 +1,53 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "generated":1580273767000,
+      "url":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson",
+      "title":"USGS Magnitude 4.5+ Earthquakes, Past Week",
+      "status":200,
+      "api":"1.8.1",
+      "count":115
+   },
+   "features":[
+   {
+            "nama" : "Bali",
+            "id" : "bali"
+        },
+        {
+            "nama" : "Aceh",
+            "id" : "aceh"
+        },
+        {
+            "nama" : "Yogyakarta",
+            "id" : "yogyakarta"
+        },
+        {
+            "nama" : "Cilacap",
+            "id" : "cilacap"
+        },
+        {
+            "nama" : "Maluku",
+            "id" : "maluku"
+        },
+        {
+            "nama" : "Belitung",
+            "id" : "belitung"
+        },
+        {
+            "nama" : "Pulau Sumba",
+            "id" : "sumba"
+        },
+        {
+            "nama" : "Lombok",
+            "id" : "lombok"
+        }
+   ],
+   "bbox":[
+      -179.9981,
+      -60.4073,
+      3.07,
+      174.5631,
+      85.9876,
+      566.14
+   ]
+}
