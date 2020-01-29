@@ -3,38 +3,1094 @@
    "metadata":{},
    "features":[
    {
-            "nama" : "Bali",
-            "id" : "bali"
-        },
-        {
-            "nama" : "Aceh",
-            "id" : "aceh"
-        },
-        {
-            "nama" : "Yogyakarta",
-            "id" : "yogyakarta"
-        },
-        {
-            "nama" : "Cilacap",
-            "id" : "cilacap"
-        },
-        {
-            "nama" : "Maluku",
-            "id" : "maluku"
-        },
-        {
-            "nama" : "Belitung",
-            "id" : "belitung"
-        },
-        {
-            "nama" : "Pulau Sumba",
-            "id" : "sumba"
-        },
-        {
-            "nama" : "Lombok",
-            "id" : "lombok"
-        }
-   ],
+      "_id":"DO00000001",
+      "address":"Jl. P.B. Sudirman No.2, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",
+      "provinceId":"51",
+      "provinceName":"Bali",
+      "cityId":"5171",
+      "cityName":"Kota Denpasar",
+      "kecamatanId":"517103",
+      "kecamatanName":"Denpasar Barat",
+      "kelurahanId":"5171031005",
+      "kelurahanName":"Dauh Puri",
+      "postalCode":"80232",
+      "status":"ONHOLD",
+      "jumlah":1000,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_bali",
+      "buyerName":"PT PLN KD UID Bali",
+      "buyerPhone":"0361221960",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":90,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"123JL",
+      "namaEkspedisi":"JNT",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1578934800000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578639335264"
+      },
+      "updatedDate":{
+         "$numberLong":"1578639335264"
+      },
+      "nopo":"PO00000050",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000002",
+      "address":"Jl. P.B. Sudirman No.2, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",
+      "provinceId":"51",
+      "provinceName":"Bali",
+      "cityId":"5171",
+      "cityName":"Kota Denpasar",
+      "kecamatanId":"517103",
+      "kecamatanName":"Denpasar Barat",
+      "kelurahanId":"5171031005",
+      "kelurahanName":"Dauh Puri",
+      "postalCode":"80232",
+      "status":"PENDING",
+      "jumlah":1000,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_bali",
+      "buyerName":"PT PLN KD UID Bali",
+      "buyerPhone":"0361221960",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":50,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"000110012020",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1580317200000"
+      },
+      "eta":{
+         "$numberLong":"1578848400000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578640240856"
+      },
+      "updatedDate":{
+         "$numberLong":"1578640240856"
+      },
+      "nopo":"PO00000050",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000003",
+      "address":"Jl. P.B. Sudirman No.2, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",
+      "provinceId":"51",
+      "provinceName":"Bali",
+      "cityId":"5171",
+      "cityName":"Kota Denpasar",
+      "kecamatanId":"517103",
+      "kecamatanName":"Denpasar Barat",
+      "kelurahanId":"5171031005",
+      "kelurahanName":"Dauh Puri",
+      "postalCode":"80232",
+      "status":"PENDING",
+      "jumlah":1000,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_bali",
+      "buyerName":"PT PLN KD UID Bali",
+      "buyerPhone":"0361221960",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":40,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"000210012020",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1583514000000"
+      },
+      "eta":{
+         "$numberLong":"1580490000000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578640393220"
+      },
+      "updatedDate":{
+         "$numberLong":"1578640393220"
+      },
+      "nopo":"PO00000050",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000004",
+      "address":"Jl. Jenderal Ahmad Yani No.25, Akcaya, Kec. Pontianak Sel., Kota Pontianak, Kalimantan Barat 78121",
+      "provinceId":"61",
+      "provinceName":"Kalimantan Barat",
+      "cityId":"6171",
+      "cityName":"Kota Pontianak",
+      "kecamatanId":"617101",
+      "kecamatanName":"Pontianak Selatan",
+      "kelurahanId":"6171011006",
+      "kelurahanName":"Akcaya",
+      "postalCode":"78121",
+      "status":"APPROVE",
+      "jumlah":1000,
+      "supplierId":"pt_gunabangsa_teknik_industri",
+      "supplierName":"PT GUNABANGSA TEKNIK INDUSTRI",
+      "supplierPhone":"0218973550",
+      "buyerId":"pt_uiw_kalbar",
+      "buyerName":"PT UIW Kalbar",
+      "buyerPhone":"0561722037",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ157485193838787",
+            "description":"Fuse cut out ini biasanya ditempatkan sebagai pengaman tansformator distribusi, dan pengaman pada cabang ? cabang saluran feeder yang menuju ke jaringan distribusi sekunder.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":1000,
+            "qtyTerima":1000,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"123123",
+      "namaEkspedisi":"POS",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1582909200000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"sekreuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578640765490"
+      },
+      "updatedDate":{
+         "$numberLong":"1578640765490"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578589200000"
+      },
+      "nopo":"PO00000057",
+      "receivedBy":"logistik.up3pontianak@yopmail.com",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000005",
+      "address":"Jl. P.B. Sudirman No.2, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",
+      "provinceId":"51",
+      "provinceName":"Bali",
+      "cityId":"5171",
+      "cityName":"Kota Denpasar",
+      "kecamatanId":"517103",
+      "kecamatanName":"Denpasar Barat",
+      "kelurahanId":"5171031005",
+      "kelurahanName":"Dauh Puri",
+      "postalCode":"80232",
+      "status":"PENDING",
+      "jumlah":1000,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_bali",
+      "buyerName":"PT PLN KD UID Bali",
+      "buyerPhone":"0361221960",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":185,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"000310012020",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579021200000"
+      },
+      "eta":{
+         "$numberLong":"1578675600000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578640769841"
+      },
+      "updatedDate":{
+         "$numberLong":"1578640769841"
+      },
+      "nopo":"PO00000050",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000006",
+      "address":"Jl. P.B. Sudirman No.2, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",
+      "provinceId":"51",
+      "provinceName":"Bali",
+      "cityId":"5171",
+      "cityName":"Kota Denpasar",
+      "kecamatanId":"517103",
+      "kecamatanName":"Denpasar Barat",
+      "kelurahanId":"5171031005",
+      "kelurahanName":"Dauh Puri",
+      "postalCode":"80232",
+      "status":"PENDING",
+      "jumlah":1000,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_bali",
+      "buyerName":"PT PLN KD UID Bali",
+      "buyerPhone":"0361221960",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":365,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"000410012020",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579021200000"
+      },
+      "eta":{
+         "$numberLong":"1578675600000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641108795"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641108795"
+      },
+      "nopo":"PO00000050",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000007",
+      "address":"Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1275",
+      "cityName":"Kota Binjai",
+      "kecamatanId":"127501",
+      "kecamatanName":"Binjai Utara",
+      "kelurahanId":"1275011001",
+      "kelurahanName":"Pahlawan",
+      "postalCode":"20748",
+      "status":"RECEIVED",
+      "jumlah":1000,
+      "supplierId":"pt_powerindo_prima_perkasa",
+      "supplierName":"PT POWERINDO PRIMA PERKASA",
+      "supplierPhone":"0215903801",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574851718349549",
+            "description":"Pemasangan fuse cut out pada jaringan distribusi hendaknya yang memiliki kemampuan lebih besar dari kualitas tegangan jaringan, lebih kurang tiga sampai lima kali arus nominal yang diperkenankan.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":1000,
+            "qtyTerima":1,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJO0001",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1580403600000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"adm.kinerja",
+      "createdDate":{
+         "$numberLong":"1578641184076"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641184076"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578675600000"
+      },
+      "nopo":"PO00000076",
+      "receivedBy":"logistik.up3binjai@yopmail.com",
+      "_class":"iconpln.sinergi.airbizz.mono.transaction.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000008",
+      "address":"Jl. Soekarno Hatta No.436, Ciseureuh, Kec. Regol, Kota Bandung, Jawa Barat 40255",
+      "provinceId":"32",
+      "provinceName":"Jawa Barat",
+      "cityId":"3273",
+      "cityName":"Kota Bandung",
+      "kecamatanId":"327311",
+      "kecamatanName":"Regol",
+      "kelurahanId":"3273111005",
+      "kelurahanName":"Ciseureuh",
+      "postalCode":"40255",
+      "status":"PENDING",
+      "jumlah":50,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_jawa_barat",
+      "buyerName":"PT PLN KD UID Jawa Barat",
+      "buyerPhone":"0224230747",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":25,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SDJB0001",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579021200000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641261651"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641261651"
+      },
+      "nopo":"PO00000077",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000009",
+      "address":"Jl. Soekarno Hatta No.436, Ciseureuh, Kec. Regol, Kota Bandung, Jawa Barat 40255",
+      "provinceId":"32",
+      "provinceName":"Jawa Barat",
+      "cityId":"3273",
+      "cityName":"Kota Bandung",
+      "kecamatanId":"327311",
+      "kecamatanName":"Regol",
+      "kelurahanId":"3273111005",
+      "kelurahanName":"Ciseureuh",
+      "postalCode":"40255",
+      "status":"RECEIVED",
+      "jumlah":50,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_jawa_barat",
+      "buyerName":"PT PLN KD UID Jawa Barat",
+      "buyerPhone":"0224230747",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":25,
+            "qtyTerima":25,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SDJB0002",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579453200000"
+      },
+      "eta":{
+         "$numberLong":"1579107600000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641300060"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641300060"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578589200000"
+      },
+      "nopo":"PO00000077",
+      "receivedBy":"logistik.up3bandung@yopmail.com",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000010",
+      "address":"Jl. Prabu Gajah Agung, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
+      "provinceId":"32",
+      "provinceName":"Jawa Barat",
+      "cityId":"3211",
+      "cityName":"Sumedang",
+      "kecamatanId":"321118",
+      "kecamatanName":"Sumedang Utara",
+      "kelurahanId":"3211181002",
+      "kelurahanName":"Situ",
+      "postalCode":"45621",
+      "status":"PENDING",
+      "jumlah":60,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_jawa_barat",
+      "buyerName":"PT PLN KD UID Jawa Barat",
+      "buyerPhone":"0224230747",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":30,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SDUIDJB0001",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579194000000"
+      },
+      "eta":{
+         "$numberLong":"1578848400000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641356005"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641356005"
+      },
+      "nopo":"PO00000068",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000011",
+      "address":"Jl. Prabu Gajah Agung, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
+      "provinceId":"32",
+      "provinceName":"Jawa Barat",
+      "cityId":"3211",
+      "cityName":"Sumedang",
+      "kecamatanId":"321118",
+      "kecamatanName":"Sumedang Utara",
+      "kelurahanId":"3211181002",
+      "kelurahanName":"Situ",
+      "postalCode":"45621",
+      "status":"PENDING",
+      "jumlah":60,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_jawa_barat",
+      "buyerName":"PT PLN KD UID Jawa Barat",
+      "buyerPhone":"0224230747",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":30,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJUIDJB0002",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579885200000"
+      },
+      "eta":{
+         "$numberLong":"1579539600000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641395633"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641395633"
+      },
+      "nopo":"PO00000068",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000012",
+      "address":"Jl. P.B. Sudirman No.2, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",
+      "provinceId":"51",
+      "provinceName":"Bali",
+      "cityId":"5171",
+      "cityName":"Kota Denpasar",
+      "kecamatanId":"517103",
+      "kecamatanName":"Denpasar Barat",
+      "kelurahanId":"5171031005",
+      "kelurahanName":"Dauh Puri",
+      "postalCode":"80232",
+      "status":"PENDING",
+      "jumlah":1000,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"pt_pln_kd_uid_bali",
+      "buyerName":"PT PLN KD UID Bali",
+      "buyerPhone":"0361221960",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":270,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"000510012020",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1586106000000"
+      },
+      "eta":{
+         "$numberLong":"1584896400000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641475540"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641475540"
+      },
+      "nopo":"PO00000050",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000013",
+      "address":" Kawasan Pemerintahan Deli Serdang, Jalan Medan - Tebing Tinggi, Perbarakan, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1207",
+      "cityName":"Deli Serdang",
+      "kecamatanId":"120731",
+      "kecamatanName":"Pagar Merbau",
+      "kelurahanId":"1207312013",
+      "kelurahanName":"Perbarakan",
+      "postalCode":"20551",
+      "status":"APPROVE",
+      "jumlah":100,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":50,
+            "qtyTerima":50,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJSUMUT0001",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579107600000"
+      },
+      "eta":{
+         "$numberLong":"1578675600000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641522667"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641522667"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578589200000"
+      },
+      "nopo":"PO00000064",
+      "receivedBy":"logistik.up3bukitbarisan@yopmail.com",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000014",
+      "address":"Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1275",
+      "cityName":"Kota Binjai",
+      "kecamatanId":"127501",
+      "kecamatanName":"Binjai Utara",
+      "kelurahanId":"1275011001",
+      "kelurahanName":"Pahlawan",
+      "postalCode":"20748",
+      "status":"PENDING",
+      "jumlah":57,
+      "supplierId":"pt_powerindo_prima_perkasa",
+      "supplierName":"PT POWERINDO PRIMA PERKASA",
+      "supplierPhone":"0215903801",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574851718349549",
+            "description":"Pemasangan fuse cut out pada jaringan distribusi hendaknya yang memiliki kemampuan lebih besar dari kualitas tegangan jaringan, lebih kurang tiga sampai lima kali arus nominal yang diperkenankan.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":10,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJO00021",
+      "namaEkspedisi":"TIKI",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1580403600000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"adm.kinerja",
+      "createdDate":{
+         "$numberLong":"1578641544538"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641544538"
+      },
+      "nopo":"PO00000067",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000015",
+      "address":" Kawasan Pemerintahan Deli Serdang, Jalan Medan - Tebing Tinggi, Perbarakan, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1207",
+      "cityName":"Deli Serdang",
+      "kecamatanId":"120731",
+      "kecamatanName":"Pagar Merbau",
+      "kelurahanId":"1207312013",
+      "kelurahanName":"Perbarakan",
+      "postalCode":"20551",
+      "status":"APPROVE",
+      "jumlah":100,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":50,
+            "qtyTerima":50,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJSUMUT0002",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579885200000"
+      },
+      "eta":{
+         "$numberLong":"1579453200000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641557110"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641557110"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578589200000"
+      },
+      "nopo":"PO00000064",
+      "receivedBy":"logistik.up3bukitbarisan@yopmail.com",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000016",
+      "address":"Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1275",
+      "cityName":"Kota Binjai",
+      "kecamatanId":"127501",
+      "kecamatanName":"Binjai Utara",
+      "kelurahanId":"1275011001",
+      "kelurahanName":"Pahlawan",
+      "postalCode":"20748",
+      "status":"PENDING",
+      "jumlah":55,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":30,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJSUMUTPO6501",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579107600000"
+      },
+      "eta":{
+         "$numberLong":"1578675600000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641629886"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641629886"
+      },
+      "nopo":"PO00000065",
+      "_class":"iconpln.sinergi.airbizz.mono.transaction.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000017",
+      "address":"Jl. Tuparev No.71, Sutawinangun, Kedawung, Cirebon, Jawa Barat 45153",
+      "provinceId":"32",
+      "provinceName":"Jawa Barat",
+      "cityId":"3209",
+      "cityName":"Cirebon",
+      "kecamatanId":"320920",
+      "kecamatanName":"Kedawung",
+      "kelurahanId":"3209202010",
+      "kelurahanName":"Sutawinangun",
+      "postalCode":"45153",
+      "status":"APPROVE",
+      "jumlah":55,
+      "supplierId":"pt_gunabangsa_teknik_industri",
+      "supplierName":"PT GUNABANGSA TEKNIK INDUSTRI",
+      "supplierPhone":"0218973550",
+      "buyerId":"pt_pln_kd_uid_jawa_barat",
+      "buyerName":"PT PLN KD UID Jawa Barat",
+      "buyerPhone":"0224230747",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ157485193838787",
+            "description":"Fuse cut out ini biasanya ditempatkan sebagai pengaman tansformator distribusi, dan pengaman pada cabang ? cabang saluran feeder yang menuju ke jaringan distribusi sekunder.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":20,
+            "qtyTerima":20,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"234234",
+      "namaEkspedisi":"PT POS",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1580317200000"
+      },
+      "eta":{
+         "$numberLong":"1578675600000"
+      },
+      "nopolice":"",
+      "createUser":"sekreuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641640653"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641640653"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578502800000"
+      },
+      "nopo":"PO00000072",
+      "receivedBy":"logistik.up3cirebon@yopmail.com",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000018",
+      "address":"Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1275",
+      "cityName":"Kota Binjai",
+      "kecamatanId":"127501",
+      "kecamatanName":"Binjai Utara",
+      "kelurahanId":"1275011001",
+      "kelurahanName":"Pahlawan",
+      "postalCode":"20748",
+      "status":"ONHOLD",
+      "jumlah":57,
+      "supplierId":"pt_powerindo_prima_perkasa",
+      "supplierName":"PT POWERINDO PRIMA PERKASA",
+      "supplierPhone":"0215903801",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574851718349549",
+            "description":"Pemasangan fuse cut out pada jaringan distribusi hendaknya yang memiliki kemampuan lebih besar dari kualitas tegangan jaringan, lebih kurang tiga sampai lima kali arus nominal yang diperkenankan.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":47,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJO000121",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1578589200000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"adm.kinerja",
+      "createdDate":{
+         "$numberLong":"1578641666189"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641666189"
+      },
+      "nopo":"PO00000067",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000019",
+      "address":"Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara",
+      "provinceId":"12",
+      "provinceName":"Sumatera Utara",
+      "cityId":"1275",
+      "cityName":"Kota Binjai",
+      "kecamatanId":"127501",
+      "kecamatanName":"Binjai Utara",
+      "kelurahanId":"1275011001",
+      "kelurahanName":"Pahlawan",
+      "postalCode":"20748",
+      "status":"APPROVE",
+      "jumlah":55,
+      "supplierId":"pt_pt_sinarindo_wiranusa_elektrik",
+      "supplierName":"PT SINARINDO WIRANUSA ELEKTRIK",
+      "supplierPhone":"0215679395",
+      "buyerId":"ptpln_kw_uiw_sumatera_utara",
+      "buyerName":"PTPLN KW UIW Sumatera Utara",
+      "buyerPhone":"0616615155",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574849692549649",
+            "description":"Fuse cut out atau biasa disingkat FCO adalah peralatan proteksi yang bekerja apabila terjadi gangguan arus lebih. Alat ini akan memutuskan rangkaian listrik yang satu dengan yang lain apabila dilewati arus yang melewati kapasitas kerjanya.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":25,
+            "qtyTerima":25,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJSUMUTPO6502",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1579885200000"
+      },
+      "eta":{
+         "$numberLong":"1579453200000"
+      },
+      "nopolice":"",
+      "createUser":"dmuipkalbagbar",
+      "createdDate":{
+         "$numberLong":"1578641678752"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641678752"
+      },
+      "tanggalDiterima":{
+         "$numberLong":"1578589200000"
+      },
+      "nopo":"PO00000065",
+      "receivedBy":"logistik.up3binjai@yopmail.com",
+      "_class":"iconpln.sinergi.airbizz.mono.transaction.domain.entity.DeliveryOrder"
+   },
+   {
+      "_id":"DO00000020",
+      "address":"Jl. Soekarno Hatta No.436, Ciseureuh, Kec. Regol, Kota Bandung, Jawa Barat 40255",
+      "provinceId":"32",
+      "provinceName":"Jawa Barat",
+      "cityId":"3273",
+      "cityName":"Kota Bandung",
+      "kecamatanId":"327311",
+      "kecamatanName":"Regol",
+      "kelurahanId":"3273111005",
+      "kelurahanName":"Ciseureuh",
+      "postalCode":"40255",
+      "status":"PENDING",
+      "jumlah":4444,
+      "supplierId":"pt_powerindo_prima_perkasa",
+      "supplierName":"PT POWERINDO PRIMA PERKASA",
+      "supplierPhone":"0215903801",
+      "buyerId":"pt_pln_kd_uid_jawa_barat",
+      "buyerName":"PT PLN KD UID Jawa Barat",
+      "buyerPhone":"0224230747",
+      "detail":[
+         {
+            "itemId":"AIRBIZZ1574851718349549",
+            "description":"Pemasangan fuse cut out pada jaringan distribusi hendaknya yang memiliki kemampuan lebih besar dari kualitas tegangan jaringan, lebih kurang tiga sampai lima kali arus nominal yang diperkenankan.",
+            "sku":"1574759561557",
+            "productName":"CUT OUT;20kV;6-100A;10kA;125kV",
+            "qty":2222,
+            "qtyTerima":0,
+            "categoryId":"biz068010101",
+            "categoryName":"CUT OUT;20kV;6-100A;10kA;125kV"
+         }
+      ],
+      "noekspedisi":"SJO666127",
+      "namaEkspedisi":"JNE",
+      "driverName":"",
+      "driverPhone":"",
+      "etd":{
+         "$numberLong":"1580922000000"
+      },
+      "eta":{
+         "$numberLong":"1578589200000"
+      },
+      "nopolice":"",
+      "createUser":"adm.kinerja",
+      "createdDate":{
+         "$numberLong":"1578641709332"
+      },
+      "updatedDate":{
+         "$numberLong":"1578641709332"
+      },
+      "nopo":"PO00000091",
+      "_class":"airbizz.gandariacity.domain.entity.DeliveryOrder"
+   }
+],
    "bbox":[
       
    ]
