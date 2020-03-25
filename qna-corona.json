@@ -66,5 +66,37 @@
   {
     "question": "Apakah sudah ada pembatasan untuk bepergian ke Cina dan negara terjangkit lainnya?",
     "answer": "Sejak 5 Februari 2020, Indonesia telah memberlakukan pembatasan perjalanan ke Cina berupa penghentian sementara penerbangan dari dan ke Cina.\nPada tanggal 5 Maret 2020, Indonesia juga memberlakukan pelarangan transit atau masuk ke Indonesia bagi pelaku perjalanan yang dalam 14 hari sebelumnya datang dari wilayah berikut:\nIran : Tehran, Qom, Gilan\nItalia : Wilayah Lombardi, Veneto, Emilia Romagna, Marche dan Piedmont\nKorea Selatan : Kota Daegu dan Propinsi Gyeongsangbuk-do."
+  },
+  {
+    "question": "Berapa banyak orang yang telah terinfeksi oleh COVID-19 dan negara mana saja yang sudah ada kasusnya?",
+    "answer": "WHO secara ketat memantau situasi terkini dan secara teratur menerbitkan informasi tentang penyakit ini. Informasi lebih lanjut mengenai penyakit ini beserta daftar negara yang terjangkit dapat dilihat melalui: Info Coronavirus WHO Online."
+  },
+  {
+    "question": "Bagaimana cara mencegah penularan virus corona?",
+    "answer": "eberapa cara yang bisa dilakukan untuk mencegah penularan virus ini adalah:\nMenjaga kesehatan dan kebugaran agar stamina tubuh tetap prima dan sistem imunitas / kekebalan tubuh meningkat.\nMencuci tangan dengan benar secara teratur menggunakan air dan sabun atau hand-rub berbasis alkohol. Mencuci tangan sampai bersih selain dapat membunuh virus yang mungkin ada di tangan kita, tindakan ini juga merupakan salah satu tindakan yang mudah dan murah. Sekitar 98% penyebaran penyakit bersumber dari tangan. Karena itu, menjaga kebersihan tangan adalah hal yang sangat penting.\nKetika batuk dan bersin, tutup hidung dan mulut Anda dengan tisu atau lengan atas bagian dalam (bukan dengan telapak tangan).\nHindari kontak dengan orang lain atau bepergian ke tempat umum.\nHindari menyentuh mata, hidung dan mulut (segitiga wajah). Tangan menyentuh banyak hal yang dapat terkontaminasi virus. Jika kita menyentuh mata, hidung dan mulut dengan tangan yang terkontaminasi, maka virus dapat dengan mudah masuk ke tubuh kita.\nGunakan masker dengan benar hingga menutupi mulut dan hidung ketika Anda sakit atau saat berada di tempat umum.\nBuang tisu dan masker yang sudah digunakan ke tempat sampah dengan benar, lalu cucilah tangan Anda.\nMenunda perjalanan ke daerah/ negara dimana virus ini ditemukan.\nHindari bepergian ke luar rumah saat Anda merasa kurang sehat, terutama jika Anda merasa demam, batuk, dan sulit bernapas. Segera hubungi petugas kesehatan terdekat, dan mintalah bantuan mereka. Sampaikan pada petugas jika dalam 14 hari sebelumnya Anda pernah melakukan perjalanan terutama ke negara terjangkit, atau pernah kontak erat dengan orang yang memiliki gejala yang sama. Ikuti arahan dari petugas kesehatan setempat.\n Selalu pantau perkembangan penyakit COVID-19 dari sumber resmi dan akurat. Ikuti arahan dan informasi dari petugas kesehatan dan Dinas Kesehatan setempat. Informasi dari sumber yang tepat dapat membantu Anda melindungi dari Anda dari penularan dan penyebaran penyakit ini."
+  },
+  {
+    "question": "Apakah saya harus selalu menggunakan masker?",
+    "answer": "Pemakaian masker hanya bagi orang yang memiliki gejala infeksi pernapasan (batuk atau bersin), mencurigai infeksi COVID-19 dengan gejala ringan, mereka yang merawat orang yang bergejala seperti demam dan batuk, dan para petugas kesehatan.\nCara yang paling efektif untuk melindungi diri dan orang lain dari penularan COVID-19 adalah mencuci tangan secara teratur, tutup mulut saat batuk dengan lipatan siku atau tisu, dan jaga jarak minimal satu meter dari orang yang bersin atau batuk."
+  },
+  {
+    "question": "Haruskah saya khawatir terhadap penyakit COVID-19 ini?",
+    "answer": "Jika Anda tidak berada di wilayah terjangkit COVID-19, atau jika Anda tidak melakukan perjalanan dari salah satu wilayah tersebut, atau tidak melakukan kontak dekat dengan seseorang yang memiliki gejala COVID-19 atau merasa kurang sehat, kecil kemungkinan Anda untuk tertular COVID-19. Namun, dapat dimengerti bahwa Anda mungkin merasa stres dan cemas tentang situasi yang terjadi saat ini. Tetaplah tenang dan jangan panik. Carilah informasi yang benar dan akurat tentang perkembangan COVID-19 agar Anda mengetahui situasi wilayah Anda dan Anda dapat mengambil tindakan pencegahan yang wajar.\nJika Anda berada di wilayah terjangkit COVID-19, Anda harus serius menghadapi risiko tersebut. Selalu jaga kesehatan dan perhatikan informasi dan saran dari pihak kesehatan yang berwenang."
+  },
+  {
+    "question": "Dalam kondisi sudah ada kasus di Indonesia, apakah aman bagi saya untuk bepergian?",
+    "answer": "Tentu saja aman, namun tetap memperhatikan kesehatan dan kebersihan diri. Pakailah masker jika Anda kurang sehat atau berada di kerumunan, selalu cuci tangan setelah memegang benda atau berjabat tangan."
+  },
+  {
+    "question": "Saya akan bepergian ke luar negeri untuk sesuatu yang mendesak, apakah saya dapat memperoleh Surat Keterangan Bebas COVID-19? Dimana?",
+    "answer": "Untuk kondisi saat ini, seseorang belum bisa diberikan surat keterangan bebas COVID-19, karena kita tidak pernah tahu apakah dia pernah kontak dengan orang yang sakit COVID-19."
+  },
+  {
+    "question": "Bagaimana situasi terkini di Indonesia? Sudah berapa banyak kasus konfirmasi COVID-19?",
+    "answer": "Situasi perkembangan penyakit COVID-19 di Indonesia dapat dipantau melalui laman website ini www.kemkes.go.id"
+  },
+  {
+    "question": "Dimanakah saya bisa mendapatkan media edukasi dan informasi serta situasi perkembangan COVID-19?",
+    "answer": "Media edukasi dan informasi serta situasi perkembangan COVID-19 dapat dipantau melalui laman website Kesiapsiagaan menghadapi Infeksi COVID-19 website kementerian Kesehatan."
   }
 ]
