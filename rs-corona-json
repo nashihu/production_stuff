@@ -508,5 +508,563 @@
     "alamat": "Pemalang",
     "tlp": "(0284) 321614",
     "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Brebes",
+    "alamat": "Brebes",
+    "tlp": "(0283) 671431",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSU Islam Harapan Anda",
+    "alamat": "Kota Tegal",
+    "tlp": "(0283) 358244",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Cilacap",
+    "alamat": "Cilacap",
+    "tlp": "(0282) 533010",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Hj Anna Lasmanah",
+    "alamat": "Banjarnegara",
+    "tlp": "(0286) 591464",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD dr R Goeteng Taroenadibrata",
+    "alamat": "Purbalingga",
+    "tlp": "(0281) 891016",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Setjonegoro",
+    "alamat": "Wonosobo",
+    "tlp": "(0286) 321091",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD dr Soedirman",
+    "alamat": "Kabupaten Kebumen",
+    "tlp": "(0287) 381101",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSU Tk III Wijayakusuma",
+    "alamat": "Purwokerto",
+    "tlp": "(0281) 633062",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Kota Surakarta",
+    "alamat": "Surakarta",
+    "tlp": "(0271) 715300",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Ir Soekarno",
+    "alamat": "Sukoharjo",
+    "tlp": "(0271) 593118",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Pandan Arang",
+    "alamat": "Boyolali",
+    "tlp": "(0276) 321065",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Bagas Waras",
+    "alamat": "Klaten",
+    "tlp": "(0272) 3359666",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Soehadi Prijonegoro",
+    "alamat": "Sragen",
+    "tlp": "(0271) 891068",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Karanganyar",
+    "alamat": "Karanganyar",
+    "tlp": "(0271) 495673",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Dr Soediran MS",
+    "alamat": "Wonogiri",
+    "tlp": "(0273) 321008",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSU PKU Muhammadiyah",
+    "alamat": "Surakarta",
+    "tlp": "(0271) 714578",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSU Islam",
+    "alamat": "Klaten",
+    "tlp": "(0272) 322252",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RS Kasih Ibu",
+    "alamat": "Surakarta",
+    "tlp": "(0271) 714422",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RS dr Oen",
+    "alamat": "Surakarta",
+    "tlp": "(0271) 643139",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSU Tk IV Slamet Riyadi",
+    "alamat": "Surakarta",
+    "tlp": "(0271) 714656",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Djojonegoro",
+    "alamat": "Temanggung",
+    "tlp": "(0293) 491119",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Dr Tjitrowardojo",
+    "alamat": "Purworejo",
+    "tlp": "(0275) 321118",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Muntilan",
+    "alamat": "Kabupaten Magelang",
+    "tlp": "(0293) 587004",
+    "prov": "JAWA TENGAH"
+  },
+  {
+    "nama": "RSUD Kota Yogyakarta",
+    "alamat": "Yogyakarta",
+    "tlp": "(0274) 371195, 386691",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "nama": "RSUP dr Sardjito",
+    "alamat": "Sleman",
+    "tlp": "(0274) 631190, 587333",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "nama": "RSUD Panembahan Senopati",
+    "alamat": "Bantul",
+    "tlp": "(0274) 367381",
+    "prov": 367386
+  },
+  {
+    "nama": "RSUD Wates",
+    "alamat": "Wates",
+    "tlp": "(0274) 773169",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "nama": "RSUD Dr Soebandi",
+    "alamat": "Kabupaten Jember",
+    "tlp": "(0331) 487441",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Kabupaten Kediri",
+    "alamat": "Kediri",
+    "tlp": "(0354) 391718",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Soetomo",
+    "alamat": "Surabaya",
+    "tlp": "(031) 5501001, IGD: (031) 5501239",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Soedono",
+    "alamat": "Madiun",
+    "tlp": "(0351) 464325, 464326, 454567",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Saiful Anwar",
+    "alamat": "Malang",
+    "tlp": "(0341) 362101",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD dr R Koesma",
+    "alamat": "Kabupaten Tuban",
+    "tlp": "(0356) 321010, 325696, 323266",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Blambangan",
+    "alamat": "Banyuwangi",
+    "tlp": "(0333) 421118, 421071",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Dr R Sosodoro Djatikoesoemo",
+    "alamat": "Bojonegoro",
+    "tlp": "(0353) 3412133",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Iskak",
+    "alamat": "Kabupaten Tulungagung",
+    "tlp": "(0355) 322609",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Sidoarjo",
+    "alamat": "Sidoarjo",
+    "tlp": "(031) 8961649",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RS Universitas Airlangga Kampus C Universitas Airlangga",
+    "alamat": "Mulyorejo Surabaya",
+    "tlp": "(031) 5916290, 5916287, 58208280",
+    "prov": "JAWA TIMUR"
+  },
+  {
+    "nama": "RSUD Tanjung Selor",
+    "alamat": "Kabupaten Bulungan",
+    "tlp": "(0552) 21118",
+    "prov": "KALIMANTAN UTARA"
+  },
+  {
+    "nama": "RSUD Tarakan",
+    "alamat": "Tarakan Tengah Kota Tarakan",
+    "tlp": "(0551) 21166",
+    "prov": "KALIMANTAN UTARA"
+  },
+  {
+    "nama": "RSUD Dr Doris Sylvanus",
+    "alamat": "Palangkaraya",
+    "tlp": "(0536) 3224695, 3224695",
+    "prov": "KALIMANTAN TENGAH"
+  },
+  {
+    "nama": "RSUD Dr Murjani",
+    "alamat": "Sampit",
+    "tlp": "(0531) 21010",
+    "prov": "KALIMANTAN TENGAH"
+  },
+  {
+    "nama": "RSUD Sultan Imanuddin",
+    "alamat": "Pangkalan Bun",
+    "tlp": "(0532) 21404",
+    "prov": "KALIMANTAN TENGAH"
+  },
+  {
+    "nama": "RSUD Ulin Banjarmasin",
+    "alamat": "Banjarmasin",
+    "tlp": "(0511) 3252180",
+    "prov": "KALIMANTAN SELATAN"
+  },
+  {
+    "nama": "RSUD H Boejasin Pelaihari",
+    "alamat": "Angsau Kabupaten Tanah Laut",
+    "tlp": "(0512) 21083, IGD (0512) 22009",
+    "prov": "KALIMANTAN SELATAN"
+  },
+  {
+    "nama": "RSUD Abdul Wahab Sjahranie",
+    "alamat": "Samarinda",
+    "tlp": "(0541) 738118",
+    "prov": "KALIMANTAN TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Kanujoso Djatiwibowo",
+    "alamat": "Balikpapan",
+    "tlp": "(0542) 873901, (0542) 887955, (0542) 887966",
+    "prov": "KALIMANTAN TIMUR"
+  },
+  {
+    "nama": "RSUD Panglima Sebaya",
+    "alamat": "Kabupaten Paser",
+    "tlp": "(0543) 24563",
+    "prov": "KALIMANTAN TIMUR"
+  },
+  {
+    "nama": "RSU Taman Husada",
+    "alamat": "Bontang",
+    "tlp": "(0548) 22111, IGD (0548) 23000",
+    "prov": "KALIMANTAN TIMUR"
+  },
+  {
+    "nama": "RSUD Aji Muhammad Parikesit",
+    "alamat": "Tenggarong Seberang Kutai Kertanegara",
+    "tlp": "(0541) 661015",
+    "prov": "KALIMANTAN TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Soedarso",
+    "alamat": "Pontianak",
+    "tlp": "(0561) 737701",
+    "prov": "KALIMANTAN BARAT"
+  },
+  {
+    "nama": "RSUD Dr Abdul Azis",
+    "alamat": "Singkawang",
+    "tlp": "(0562) 631798",
+    "prov": "KALIMANTAN BARAT"
+  },
+  {
+    "nama": "RSUD Ade Mohammad Djoen",
+    "alamat": "Sintang",
+    "tlp": "(0565) 21002, 081345435555",
+    "prov": "KALIMANTAN BARAT"
+  },
+  {
+    "nama": "RSUD Dr Agoesdjam",
+    "alamat": "Ketapang",
+    "tlp": "(0534) 3037239",
+    "prov": "KALIMANTAN BARAT"
+  },
+  {
+    "nama": "RSUD Prof Dr H Aloei Saboe",
+    "alamat": "Gorontalo",
+    "tlp": "08124315555, IGD: 085298208997",
+    "prov": "GORONTALO"
+  },
+  {
+    "nama": "RSUD Undata Palu",
+    "alamat": "Palu",
+    "tlp": "(0451) 4908020",
+    "prov": "SULAWESI TENGAH"
+  },
+  {
+    "nama": "RSUD Kabupaten Banggai Luwuk",
+    "alamat": "Luwuk",
+    "tlp": "(0461) 21820",
+    "prov": "SULAWESI TENGAH"
+  },
+  {
+    "nama": "RSU Mokopido Toli-Toli",
+    "alamat": "Kabupaten Toli-Toli",
+    "tlp": "(0453) 21301",
+    "prov": "SULAWESI TENGAH"
+  },
+  {
+    "nama": "RSUD Kolonedale",
+    "alamat": "Kolonedale",
+    "tlp": "(0465) 21010",
+    "prov": "SULAWESI TENGAH"
+  },
+  {
+    "nama": "RSU Anutapura Palu",
+    "alamat": "Palu",
+    "tlp": "(0451) 460570",
+    "prov": "SULAWESI TENGAH"
+  },
+  {
+    "nama": "RSUP Prof Dr R D Kandou",
+    "alamat": "Manado",
+    "tlp": "(0431) 8383058",
+    "prov": "SULAWESI UTARA"
+  },
+  {
+    "nama": "RSUD Kota Kotamobagu",
+    "alamat": "Kotamobagu",
+    "tlp": "(0434) 822816",
+    "prov": "SULAWESI UTARA"
+  },
+  {
+    "nama": "RSU Ratatotok",
+    "alamat": "Buyat",
+    "tlp": "(0431) 3177610",
+    "prov": "SULAWESI UTARA"
+  },
+  {
+    "nama": "RSUD Dr Sam Ratulangi",
+    "alamat": "Luaan Tondano Timur",
+    "tlp": "(0431) 321171",
+    "prov": "SULAWESI UTARA"
+  },
+  {
+    "nama": "RSUD Provinsi Sulawesi Barat",
+    "alamat": "Mamuju",
+    "tlp": "(0426) 2703260, 2703204",
+    "prov": "SULAWESI BARAT"
+  },
+  {
+    "nama": "RSUP dr Wahidin Sudirohusodo",
+    "alamat": "Makassar",
+    "tlp": "(0411) 584677",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RS Dr Tadjuddin Chalid",
+    "alamat": "Makassar",
+    "tlp": "(0411) 512902",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RSUD Labuang Baji",
+    "alamat": "Makassar",
+    "tlp": "(0411) 872120",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RS Tk II Pelamonia",
+    "alamat": "Makassar",
+    "tlp": "(0411) 7402332",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RSU Lakipadada Toraja",
+    "alamat": "Tana Toraja",
+    "tlp": "(0423) 22264",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RSU Andi Makkasau Parepare",
+    "alamat": "Parepare",
+    "tlp": "(0421) 21823",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RSUD Kabupaten Sinjai",
+    "alamat": "Sinjai",
+    "tlp": "(0482) 21132",
+    "prov": "SULAWESI SELATAN"
+  },
+  {
+    "nama": "RS Kendari",
+    "alamat": "Kendari",
+    "tlp": "(0401-3195611)",
+    "prov": "SULAWESI TENGGARA"
+  },
+  {
+    "nama": "RSUP Sanglah",
+    "alamat": "Denpasar",
+    "tlp": "(0361) 227911-15",
+    "prov": "BALI"
+  },
+  {
+    "nama": "RSUD Sanjiwani",
+    "alamat": "Gianyar",
+    "tlp": "(0361) 943049",
+    "prov": "BALI"
+  },
+  {
+    "nama": "RSU Tabanan",
+    "alamat": "Tabanan",
+    "tlp": "(0361) 811027, 819810, 811202",
+    "prov": "BALI"
+  },
+  {
+    "nama": "RSUD Kabupaten Buleleng",
+    "alamat": "Singaraja",
+    "tlp": "(0362) 22046, 3307744",
+    "prov": "BALI"
+  },
+  {
+    "nama": "RSUD Provinsi NTB",
+    "alamat": "Bima",
+    "tlp": "(0370) 7502424, IGD (0370) 7504288",
+    "prov": "NUSA TENGGARA BARAT"
+  },
+  {
+    "nama": "RSU Bima",
+    "alamat": "Bima",
+    "tlp": "(0374) 43142",
+    "prov": "NUSA TENGGARA BARAT"
+  },
+  {
+    "nama": "RS H L Manambai Abdulkadir",
+    "alamat": "Sumbawa Besar",
+    "tlp": "(0371) 2628078",
+    "prov": "NUSA TENGGARA BARAT"
+  },
+  {
+    "nama": "RSUD Dr R Soedjono",
+    "alamat": "Selong",
+    "tlp": "IGD: 01-123 2234567",
+    "prov": "NUSA TENGGARA BARAT"
+  },
+  {
+    "nama": "RSU Prof Dr WZ Johanes",
+    "alamat": "Kupang",
+    "tlp": "(0380) 833614",
+    "prov": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "nama": "RSUD Dr Tc Hillers Jl Wairklau",
+    "alamat": "Maumere Kabupaten Sikka",
+    "tlp": "081261153944",
+    "prov": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "nama": "RSUD Komodo Labuan Bajo",
+    "alamat": "Kabupaten Manggarai Barat",
+    "tlp": "081337055250",
+    "prov": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "nama": "RSU Dr M. Haulussy",
+    "alamat": "Ambon",
+    "tlp": "(0911) 344871",
+    "prov": "MALUKU"
+  },
+  {
+    "nama": "RSUP dr J Leimena",
+    "alamat": "Ambon",
+    "tlp": "-",
+    "prov": "MALUKU"
+  },
+  {
+    "nama": "RSUD Dr P P Magretti",
+    "alamat": "Saumlaki Tanimbar Selatan",
+    "tlp": "(0918) 21113",
+    "prov": "MALUKU"
+  },
+  {
+    "nama": "RSUD Dr H Chasan Boesoirie",
+    "alamat": "Ternate",
+    "tlp": "(0921) 3121281",
+    "prov": "MALUKU UTARA"
+  },
+  {
+    "nama": "RSU Jayapura",
+    "alamat": "Jayapura",
+    "tlp": "(0967) 533616",
+    "prov": "PAPUA"
+  },
+  {
+    "nama": "RSU Merauke",
+    "alamat": "Merauke",
+    "tlp": "(0971) 32112",
+    "prov": "PAPUA"
+  },
+  {
+    "nama": "RSU Nabire",
+    "alamat": "Nabire",
+    "tlp": "(0984) 21845",
+    "prov": "PAPUA"
+  },
+  {
+    "nama": "RSUD Manokwari",
+    "alamat": "Manokwari",
+    "tlp": "(0986) 211440",
+    "prov": "PAPUA BARAT"
+  },
+  {
+    "nama": "RSUD Kabupaten Sorong",
+    "alamat": "Sorong",
+    "tlp": "(0951) 321850",
+    "prov": "PAPUA BARAT"
   }
 ]
