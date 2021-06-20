@@ -1,0 +1,26 @@
+[
+   {
+     "sender": "Jeffri",
+     "twit": "Pagi semua",
+     "like": "25",
+     "retweet": "33",
+     "reply": "33",
+     "favorit": "1"
+    },
+   {
+     "sender": "Fikri",
+     "twit": "Halo ges",
+     "like": "27",
+     "retweet": "30",
+     "reply": "43",
+     "favorit": "0"
+    },
+   {
+     "sender": "Eko",
+     "twit": "Mau makan",
+     "like": "30",
+     "retweet": "27",
+     "reply": "29",
+     "favorit": "0"
+    },
+]
