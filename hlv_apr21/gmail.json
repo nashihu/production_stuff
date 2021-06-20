@@ -1,0 +1,24 @@
+[ 
+   {
+     "sender": "Jeffri",
+     "title": "Invitation Marriage",
+     "body_short": "Halo semua, dengan rasa syukur...",
+     "body_full": "Halo semua, dengan rasa syukur saya ingin mengundang teman2 untuk hadir di pernikahan saya",
+     "important": "1",
+    },
+   {
+     "sender": "Eko from Alibaba",
+     "title": "Ready to face our new product?",
+     "body_short": "Besok kami akan launching produk....",
+     "body_full": "Besok kami akan launching produk jam tangan mewah anti karat anti air anti body",
+     "important": "0",
+    },
+   {
+     "sender": "Google Play | Apps & Games",
+     "title": "Tambang Bytes: Grow your game with help from Google Play",
+     "body_short": "Hello,\nAt Google Play we’re committed to helping you grow..",
+     "body_full": "Hello,\nAt Google Play we’re committed to helping you grow.\nIf you are a small game developer studio - from 1 person and up to 50 employees - you can now apply for the Indie Games Accelerator.",
+     "important": "0",
+    },
+
+]
