@@ -1,25 +1,28 @@
 
 [
    {
-     "sender": "Jeffri",
+     "sender": "Budi",
      "twit": "Pagi semua",
-     "like": "25",
+     "username": "@budimanbud",
+     "date": "Jun 17",
      "retweet": "33",
      "reply": "33",
      "favorit": "1"
     },
    {
-     "sender": "Fikri",
+     "sender": "Aldo",
      "twit": "Halo ges",
-     "like": "27",
+     "date": "Jun 21",
+     "username": "@aldoo28",
      "retweet": "30",
      "reply": "43",
      "favorit": "0"
     },
    {
-     "sender": "Eko",
+     "sender": "Vani",
      "twit": "Mau makan",
-     "like": "30",
+     "username": "@vaniinav",
+     "date": "Apr 17",
      "retweet": "27",
      "reply": "29",
      "favorit": "0"
