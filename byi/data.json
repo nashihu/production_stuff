@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "title": "The Happiness Journey",
     "type": "Kajian BYI",
@@ -39,3 +40,4 @@
     "thumb_YT": "https://raw.githubusercontent.com/nashihu/production_stuff/master/byi/thumb_YT.JPG"
   }
 ]
+}
