@@ -46,6 +46,8 @@ Reseller Cafeling may collect and process face data, which includes plain photos
 
 All face data collected by Reseller Cafeling is securely stored on our own database servers. We implement rigorous security measures to protect this data from unauthorized access, disclosure, alteration, or destruction. We take the privacy and security of your face data seriously.
 
+We retain face data for a period of 1 month from the time of collection. This duration is necessary to provide the services outlined in this app. After the 1-month period, your face data will be securely deleted from our servers.
+
 **Security**
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
